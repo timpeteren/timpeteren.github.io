@@ -4,11 +4,9 @@ author: Tim Peter Edstrøm
 description: A blog about cloud stuff
 show_downloads: false
 social-share: true
-# twitter_username: timpeteren
 github_username:  timpeteren
 url: https://timpeteren.github.io
 permalink: /blog/:title/
-# avatar: "/assets/img/thisisme.jpg"
 
 navbar-links:
   Blog: "/"
@@ -17,19 +15,14 @@ navbar-links:
 plugins:
   - jekyll-sitemap
 
-# google_analytics:
-
 social-network-links:
   github: timpeteren
-#  twitter: timpeteren
-#  linkedin: 
 
 share-links-active:
   twitter: true
   facebook: true
   linkedin: true
 
-# url-pretty: "LearningByDoing.cloud"
 post_search: true
 
 exclude:
@@ -40,6 +33,7 @@ exclude:
 - Gemfile.lock
 - LICENSE
 - README.md
+- .gitignore
 
   # Default YAML values (more information on Jekyll's site)
 defaults:
