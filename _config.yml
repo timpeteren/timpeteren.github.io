@@ -1,3 +1,4 @@
+theme: jekyll-theme-architect
 title: In teh cloud
 author: Tim Peter Edstrøm
 description: A blog about cloud stuff
@@ -56,5 +57,3 @@ defaults:
     values:
       layout: "page"
       show-avatar: false
-
-theme: jekyll-theme-architect
