@@ -56,3 +56,5 @@ defaults:
     values:
       layout: "page"
       show-avatar: false
+
+theme: jekyll-theme-architect
