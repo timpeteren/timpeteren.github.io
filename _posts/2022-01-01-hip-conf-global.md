@@ -8,18 +8,25 @@ author: Tim Peter Edstrøm
 ---
 
 Last year, December 1-2, 2021, I attended the HIP Global conference.
-![HIP Global 2021](/assets/img/posts/2022-01-01/1-hipglobal21.png)</br>
+
+![HIP Global 2021](/assets/img/posts/2022-01-01/1-hipglobal21.png)
+
 Things being what they are, this conference was hosted virtually.
 I admire the speakers for still being able to deliver a lot of awesome sessions, on a variety of interesting topics, all connected to identity.
 Please head over to the [Hybrid Identity Protection conference webpage](https://www.hipconf.com/).
 Here you can also find all prior conference talks at their [Discover](https://www.hipconf.com/discover/) page.
 
 > **NOTE!**</br>
-> To access the material on the HIP conference page you will have to sign up with [BrightTALK](https://www.brighttalk.com/) to gain access. Which may be not a bad thing :-) ![Brighttalk](/assets/img/posts/2022-01-01/2-brighttalk.png)</br>
+> To access the material on the HIP conference page you will have to sign up with [BrightTALK](https://www.brighttalk.com/) to gain access. Which may be not a bad thing :-) 
+> 
+> ![Brighttalk](/assets/img/posts/2022-01-01/2-brighttalk.png)
+> 
 > Alternatively, most videos are available to watch on Youtube, by following links below.
 
 A great big thanks to [Semperis](https://www.semperis.com/) for being the sponsor of the conference.
+
 ![Semperis](/assets/img/posts/2022-01-01/3-semperis.png)
+
 A little plug; on their [Semperis Youtube channel](https://www.youtube.com/channel/UCycrWXhxOTaUQ0sidlyN9SA/videos) you will find a great amount of awesome video content, including videos from prior HIP conferences.
 
 Unsurprisingly I got into this conference because of my long-standing admiration of John Craddock.
@@ -39,7 +46,9 @@ Getting access to real-life experience from seasoned IT veterans it incredibly v
 
 In the same vain, Joe Kaplan's **Taking a Large Organization Passwordless: Completing the Journey**, a follow-up from last years **Taking a Large Organization Passwordless**, was a good insight into how a big company like Accenture (currently employs more than 650.000 people) thinks and acts when it comes to passwordless.
 
-I also *earned* a HIP **Certificate of completion**, so I'd better parade that here, now that I have the chance ;-) ![HIP certificate of completion](/assets/img/posts/2022-01-01/4-hipcertificate.png)
+I also *earned* a HIP **Certificate of completion**, so I'd better parade that here, now that I have the chance ;-)
+
+![HIP certificate of completion](/assets/img/posts/2022-01-01/4-hipcertificate.png)
 
 So much good content, and don't let yourself be fooled by som of the session titles, they don't all look that exciting.
 Personally I was always happy I had chimed in to the various sessions, because there were always topics being discussed, or show-cased, that I learned a thing or two from.
