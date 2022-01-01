@@ -19,7 +19,7 @@ Alternatively, most HIP sessions can be found on Youtube, by following the link 
 
 
 > **NOTE!**<br />
-> To access the material on the HIP conference page you will have to sign up with [BrightTALK](https://www.brighttalk.com/) to gain access. This may be not a bad thing... ;-)
+> To access the material on the HIP conference page you will have to sign up with [BrightTALK](https://www.brighttalk.com/) to gain access. This may be not a bad thing... :wink:
 > 
 > ![Brighttalk](/assets/img/posts/2022-01-01/2-brighttalk.png)
 
@@ -46,11 +46,11 @@ Getting access to real-life experience from seasoned IT veterans it incredibly v
 
 In the same vain, Joe Kaplan's **Taking a Large Organization Passwordless: Completing the Journey**, a follow-up from last years **Taking a Large Organization Passwordless**, was a good insight into how a big company like Accenture (currently employs more than 650.000 people) thinks and acts when it comes to passwordless.
 
-I also *earned* a HIP **Certificate of completion**, so I'd better parade that here, now that I have the chance ;-)
+I also *earned* a HIP **Certificate of completion**, so I'd better parade that here, now that I have the chance :smile:
 
 ![HIP certificate of completion](/assets/img/posts/2022-01-01/4-hipcertificate.png)
 
 So much good content, and don't let yourself be fooled by som of the session titles, they don't all look that exciting.
 Personally I was always happy I had chimed in to the various sessions, because there were always topics being discussed, or show-cased, that I learned a thing or two from.
 
-Happy HIP-ing! :-)
+Happy HIP-ing! :smiley:
