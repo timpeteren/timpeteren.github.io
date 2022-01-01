@@ -5,7 +5,7 @@ title: "/whoami"
 
 **Tim Peter Edstrøm**  
 *Cloud Identity Architect*
- 
+
 Enthusiastic about Azure Identity and Cloud technology
 
 - GitHub: [https://github.com/timpeteren](https://github.com/timpeteren)
