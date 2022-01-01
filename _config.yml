@@ -1,6 +1,7 @@
+remote_theme: artemsheludko/flexible-jekyll
 title: In teh cloud
-author: Tim Peter Edstrøm
 description: Identity and beyond
+author: Tim Peter Edstrøm
 show_downloads: false
 social-share: true
 github_username:  timpeteren
@@ -51,5 +52,3 @@ defaults:
     values:
       layout: "page"
       show-avatar: false
-
-theme: jekyll-theme-midnight
