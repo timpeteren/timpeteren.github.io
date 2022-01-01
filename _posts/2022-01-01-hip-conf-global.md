@@ -15,13 +15,13 @@ Things being what they are, this conference was hosted virtually.
 I admire the speakers for still being able to deliver a lot of awesome sessions, on a variety of interesting topics, all connected to identity.
 Please head over to the [Hybrid Identity Protection conference webpage](https://www.hipconf.com/).
 Here you can also find all prior conference talks at their [Discover](https://www.hipconf.com/discover/) page.
+Alternatively, most HIP sessions can be found on Youtube, by following the link below.
 
-> **NOTE!**</br>
-> To access the material on the HIP conference page you will have to sign up with [BrightTALK](https://www.brighttalk.com/) to gain access. Which may be not a bad thing :-) 
+
+> **NOTE!**<br />
+> To access the material on the HIP conference page you will have to sign up with [BrightTALK](https://www.brighttalk.com/) to gain access. This may be not a bad thing... ;-)
 > 
 > ![Brighttalk](/assets/img/posts/2022-01-01/2-brighttalk.png)
-> 
-> Alternatively, most videos are available to watch on Youtube, by following links below.
 
 A great big thanks to [Semperis](https://www.semperis.com/) for being the sponsor of the conference.
 
