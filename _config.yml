@@ -1,9 +1,6 @@
-#theme: jekyll-theme-architect
-#theme: jekyll-theme-tactile
-remote_theme: daattali/beautiful-jekyll
 title: In teh cloud
 author: Tim Peter Edstrøm
-description: Identity and more
+description: Identity and beyond
 show_downloads: false
 social-share: true
 github_username:  timpeteren
