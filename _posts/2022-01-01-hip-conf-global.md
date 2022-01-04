@@ -37,12 +37,12 @@ As a blockchain enthusiast I was delighted to be updated on how ledger technolog
 I should also note that using ledgers for storing verifiable credentials does not have to include neither Bitcoin nor blockchain as a whole.
 However, with my area of specialty being identity, considering how identities may be handled in the future is truly intriguing.
 
-As the conference was on an Eastern Time schedule I wasn't able to check out any session live.
-In fact, it took me a couple of weeks before I really got into the sessions and from there it didn't take long before I had viewed them all, with the exception of one or two.
+As the conference was on an Eastern Time schedule I wasn't able to check out any of the sessions live.
+In fact, it took me a couple of weeks before I really got into the sessions but from there it didn't take long before I had viewed them all, with the exception of one or two.
 
 The first session I watched was Sander Berkouwer's **Windows Hello for Business Hybrid Access: How Does It Work Under the Covers?** as I was currently troubleshooting a project having issues with WHfB.
 The session was very enlightening, both from a theoretical and practical perspective.
-Getting access to real-life experience from seasoned IT veterans it incredibly valuable.
+Getting access to real-life experience from seasoned IT veterans is incredibly valuable.
 
 In the same vain, Joe Kaplan's **Taking a Large Organization Passwordless: Completing the Journey**, a follow-up from last years **Taking a Large Organization Passwordless**, was a good insight into how a big company like Accenture (currently employs more than 650.000 people) thinks and acts when it comes to passwordless.
 
