@@ -1,5 +1,5 @@
-# remote_theme: daattali/beautiful-jekyll
-remote_theme: jekyll/minima
+remote_theme: daattali/beautiful-jekyll
+# remote_theme: jekyll/minima
 title: In teh cloud
 description: Identity and beyond
 author: Tim Peter Edstrøm
@@ -16,6 +16,8 @@ navbar-links:
 plugins:
   - jekyll-sitemap
   - jemoji
+
+google_analytics: G-2XRTGTT694
 
 social-network-links:
   github: timpeteren
